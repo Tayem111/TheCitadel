@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-citadel/government/the-government/"}
 ---
 
-[[The Citadel/Government/Governor Foley\|Governor Foley Woodspine]] didn’t trust kings, conquerors, or prophets - power, he knew, was a poison best diluted. So when he forged [[The Citadel/The Citadel\|The Citadel]], he split authority into seven blades, each wielded by a different hand. No single voice could command absolute loyalty. No single faction could hoard all the gold, the soldiers, or the laws. Resources flowed like blood through a body - each organ demanding its share, each minister clawing for more, while Foley watched, sharp-eyed, from the shadows. The system was designed to balance… but balance, like a knife, cuts both ways
+[[The Citadel/Government/Governor Foley\|Governor Foley Woodspine]] didn’t trust kings, conquerors, or prophets - power, he knew, was a poison best diluted. So when he forged [[The Citadel/The Citadel\|The Citadel]], he split authority into seven blades, each wielded by a different hand. No single voice could command absolute loyalty. No single faction could hoard all the gold, the soldiers, or the laws. The system was designed to balance… but balance, like a knife, cuts both ways
 
 | Role               | Purpose                   | Member                              |
 | ------------------ | ------------------------- | ----------------------------------- |

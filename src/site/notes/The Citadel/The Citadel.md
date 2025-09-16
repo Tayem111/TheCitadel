@@ -2,7 +2,21 @@
 {"dg-publish":true,"permalink":"/the-citadel/the-citadel/","tags":["gardenEntry"]}
 ---
 
+## [[The Citadel/Government/The Government\|The Government]]
+[[The Citadel/Government/Governor Foley\|Governor Foley Woodspine]] didn’t trust kings, conquerors, or prophets - power, he knew, was a poison best diluted. So when he forged [[The Citadel/The Citadel\|The Citadel]], he split authority into seven blades, each wielded by a different hand. No single voice could command absolute loyalty. No single faction could hoard all the gold, the soldiers, or the laws. The system was designed to balance… but balance, like a knife, cuts both ways
+
+| Role          | Purpose                   | Member                              |
+| ------------- | ------------------------- | ----------------------------------- |
+| Sovereign     | Governer                  | [[The Citadel/Government/Governor Foley\|Foley Woodspine]] |
+| Sentinel      | Defense and Security      | [[The Citadel/Government/Sisi Bateman\|Sisi Bateman]]                    |
+| Scales        | Justice and Law           | [[Russel Bader Ginsburg\|Russel Bader Ginsburg]]           |
+| Harvestmaster | Economy and Agriculture   | [[Percy Demetrius\|Percy Demetrius]]                 |
+| Silver Tongue | Diplomacy                 | [[Peter Esdaile\|Peter Esdaile]]                   |
+| Keeper        | Culture and Education     | [[Vander Gold\|Vander Gold]]                     |
+| Stone Wright  | Health and Infrastructure | [[Jensen Grandeyes\|Jensen Grandeyes]]                |
+
 ## Subcities
+
 ### **[[The Citadel/Subcities/Aetherium\|Aetherium]]**
 The centre of arcane learning, magical industry, and weird happenings. This district is where the city's wizards, alchemists, artificers, and scholars congregate. The architecture is strange, towers that defy gravity, buildings made of crystal or solidified light, and streets that sometimes change path. Magical mishaps are a daily occurrence. Or rather, it was like this. [[The Citadel/The Fall\|The Fall]] has left it less fantastical. Where magic was once used to beautify life, it is now needed for the population just to get by. 
 
